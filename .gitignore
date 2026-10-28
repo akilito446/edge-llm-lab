@@ -1,0 +1,4 @@
+.venv/
+server.log
+*.gguf
+__pycache__/

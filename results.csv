@@ -1,0 +1,2 @@
+time,model,ngl,ctx,n_predict,runs,load_s,ttft_ms,prefill_tps,decode_tps,vram_mb,ram_mb,note
+2026-10-28T22:39:32,qwen2.5-3b-q4_k_m.gguf,99,4096,128,3,37.21,963.3,178.2,44.1,2131,2594,baseline
